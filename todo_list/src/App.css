@@ -35,7 +35,7 @@ h1 {
     font-size: 16px;
     background-color: rgb(62, 138, 151);
     color: #fff;
-    border-radius: 8px;
+    border-radius: -4px;
     border: none;
     padding: 8px 16px;
     cursor: pointer;
